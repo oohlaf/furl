@@ -61,6 +61,7 @@ COLON_SEPARATED_SCHEMES = [
     'sms',
     'tel',
     'mailto',
+    'acct',
 ]
 
 
